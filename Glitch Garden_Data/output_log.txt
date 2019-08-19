@@ -1,0 +1,86 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.110 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program Learning\Unity\Projects\Glitch Garden\Glitch Garden_Data\Managed\System.dll (this message is harmless)
+Dont't destroy on load: Persistent Music
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 3.306670 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 186.
+Total: 1.448298 ms (FindLiveObjects: 0.026074 ms CreateObjectMapping: 0.006716 ms MarkObjects: 0.130765 ms  DeleteObjects: 0.077827 ms)
+
+Playing clip: Spooky_Groddle_1291879214 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level load requested for: 02 Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.895903 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 493.
+Total: 1.961483 ms (FindLiveObjects: 0.027654 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.240592 ms  DeleteObjects: 0.500148 ms)
+
+Playing clip: moon_music_1344997839 (UnityEngine.AudioClip)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level auto load disabled, use a posotive number in second
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Insufficient stars to spawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Insufficient stars to spawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Insufficient stars to spawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Insufficient stars to spawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level load requested for: 03b Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.672790 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 186 unused Assets to reduce memory usage. Loaded Objects now: 230.
+Total: 1.182026 ms (FindLiveObjects: 0.009876 ms CreateObjectMapping: 0.006716 ms MarkObjects: 0.134321 ms  DeleteObjects: 0.229531 ms)
+
+Playing clip: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+I want to quit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
